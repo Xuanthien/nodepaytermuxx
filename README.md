@@ -2,7 +2,7 @@
 ![Nodepay.ai](image.png)
 Nodepay.ai Bot auto ping using multyple proxy
 
-Register to Nodepay.ai : [https://app.nodepay.ai/register](https://app.nodepay.ai/register?ref=Od15EPpf6UBd5qR)
+Register to Nodepay.ai : [https://app.nodepay.ai/register](https://app.nodepay.ai/register?ref=TCs3g2wzpJRELsX)
 
 # Features
 This script is intended for running on a server using multyple proxy.
@@ -12,7 +12,7 @@ This script is intended for running on a server using multyple proxy.
 - so the best way to farm right now is to create multy accounts
 - the script is support multy account just paste token `np_tokens.txt` each line for 1 account
 - make sure your account get **Proof of Humanhood** badge
-- Register here [https://app.nodepay.ai/](https://app.nodepay.ai/register?ref=Od15EPpf6UBd5qR)
+- Register here [https://app.nodepay.ai/](https://app.nodepay.ai/register?ref=TCs3g2wzpJRELsX)
   
 ![image](https://github.com/user-attachments/assets/6b77e7e9-7fcc-4de0-b026-ca3d1a40146e)
 
