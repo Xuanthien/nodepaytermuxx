@@ -26,8 +26,8 @@ This script is intended for running on a server using multyple proxy.
 
 ## 1. Steps to Run the Code
 ```bash
-git clone https://github.com/Zlkcyber/nodepay.git
-cd nodepay
+git clone https://github.com/Xuanthien/nodepaytermuxx.git
+cd nodepaytermuxx
 ```
 
 ## 2. Install Dependencies
